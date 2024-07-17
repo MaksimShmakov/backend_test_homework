@@ -1,1 +1,1 @@
-empty_title = None
+empty_title = 123
